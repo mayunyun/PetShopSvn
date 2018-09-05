@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+            timestampString = "534325746.027233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "-dataRequestForOrderInfo:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+            timestampString = "534330540.47454"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
+            landmarkName = "-dataRequestForProInfo:WithDic:AndWithOrderNo:AndWithMoney:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__46-[MYYPayMentOrderViewController nextButClick:]_block_invoke"
+                  moduleName = "BaseFrame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qianlong/Desktop/%E7%88%B1%E5%AE%A0svn/BaseFrame/BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+                  timestampString = "539861890.003343"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_.293"
+                  moduleName = "BaseFrame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qianlong/Desktop/%E7%88%B1%E5%AE%A0svn/BaseFrame/BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+                  timestampString = "539861890.007767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_.294"
+                  moduleName = "BaseFrame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qianlong/Desktop/%E7%88%B1%E5%AE%A0svn/BaseFrame/BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+                  timestampString = "539861890.011641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "283"
+                  endingLineNumber = "283"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__46-[MYYPayMentOrderViewController nextButClick:]_block_invoke.296"
+                  moduleName = "BaseFrame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/qianlong/Desktop/%E7%88%B1%E5%AE%A0svn/BaseFrame/BaseFrame/Classes/mine/MYYPayMentOrderViewController.m"
+                  timestampString = "539861890.0153559"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
